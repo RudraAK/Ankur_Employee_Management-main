@@ -1,5 +1,5 @@
 # Employee_Management
-Lab-05,SpringBoot,Thymeleaf
+Lab_Assignment-05,SpringBoot,Thymeleaf
 
 Create an MVC project using Spring Boot & Thymeleaf (Employee Management System)  and perform the following operations using appropriate mappings
 
